@@ -147,7 +147,7 @@ h2 {
  font-size: 59px;
  background-image: linear-gradient(to right, rgb(79, 76, 76), red);
  -webkit-text-fill-color: transparent;
- background-clip: text;
+ -webkit-background-clip: text;
 
 }
 
@@ -230,7 +230,7 @@ i {
   font-size: 42.4px;
   background-image: linear-gradient(to right, rgb(79, 76, 76), red);
   -webkit-text-fill-color: transparent;
-  background-clip: text;
+  -webkit-background-clip: text;
 
  }
 
