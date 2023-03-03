@@ -135,7 +135,7 @@ img {
 }
 
 h2 {
- font-size: 37px;
+ font-size: 36px;
  font-weight: lighter;
  margin-bottom: 20px;
  color: rgb(92, 85, 85);
@@ -144,7 +144,7 @@ h2 {
 .b {
  margin-left: 0;
  margin-bottom: 20px;
- font-size: 59px;
+ font-size: 57px;
  background-image: linear-gradient(to right, rgb(79, 76, 76), red);
  -webkit-text-fill-color: transparent;
  -webkit-background-clip: text;
